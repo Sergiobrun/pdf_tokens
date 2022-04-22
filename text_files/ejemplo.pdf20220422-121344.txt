@@ -1,0 +1,144 @@
+Link do raportu
+on-line
+Audyt Jakościowy OW v3.5 Auditor: Anna Perkowska
+Diversey Consulting Data i godzina rozpoczęcia: marca 17, 2022 16:54
+PLB3084 3084 Toszek Data i godzina zakończenia: marca 18, 2022 16:04
+ul. Gliwicka 10A Region: Ruda Śląska
+Toszek, PL Okręg: 13
+Rejon: 135
+Wynik auditu
+Wynik: 86%
+Podsumowanie działów Ilość stwier Powtarzające si Wynik
+dzonych ę niezgodności
+niezgodności
+STOISKO 2 0 78%
+JAKOŚĆ 0 0 100%
+CZYSTOŚĆ 0 0 100%
+MAGAZYN 1 0 75%
+Łącznie 3 0 86%
+Szczegółowe podsumowanie auditu
+STOISKO 78%
+Pytania Odpowiedź Punkty Punkty Poziom
+zdobyte możliwe ryzyka
+do
+zdobycia
+OWSTOISKO1 - Czy produkty promocyjne są 0 10 Niezgodny
+Odpowiedź: NOK
+dostępne - indeksy promocyjne
+Komentarz auditora:
+Ograniczona dostępność indeksu promocyjnego - jabł
+ek szampion dostępna jest tylko 1 sztuka
+Komentarz:
+Ograniczona dostępność indeksu promocyjnego -
+jabłek szampion dostępna jest tylko 1 sztuka
+1/4Link do raportu
+on-line
+Szczegółowe podsumowanie auditu
+STOISKO 78%
+Pytania Odpowiedź Punkty Punkty Poziom
+zdobyte możliwe ryzyka
+do
+zdobycia
+OWSTOISKO2 - Czy etykiety są widoczne dla 0 10 Niezgodny
+Odpowiedź: NOK
+klienta
+Komentarz auditora:
+Brak etykiety na kartonie z bakłażanem
+OWSTOISKO3 - Czy stosowana jest zasada 10 10 Zgodny
+Odpowiedź: OK
+FIFO/FEFO - całe stoisko
+OWSTOISKO4 - Sprawdzenie dostępności pod 10 10 Zgodny
+Odpowiedź: OK
+stawowych indeksów OW
+OWSTOISKO5 - Czy na stoisku dostępne są 10 10 Zgodny
+Odpowiedź: OK
+woreczki jednorazowe?
+OWSTOISKO6 - Czy oświetlenie nad stoiskiem 10 10 Zgodny
+Odpowiedź: OK
+jest włączone i sprawne?
+OWSTOISKO7 - Czy na stoisku obserwuje się 10 10 Zgodny
+Odpowiedź: OK
+obecność lub ślady bytowania szkodników?
+OWSTOISKO8 - Czy na stoisku OW odczuwalny 10 10 Zgodny
+Odpowiedź: OK
+jest nieprzyjemny zapach?
+2/4Link do raportu
+on-line
+Szczegółowe podsumowanie auditu
+STOISKO 78%
+Pytania Odpowiedź Punkty Punkty Poziom
+zdobyte możliwe ryzyka
+do
+zdobycia
+OWSTOISKO9 - Czy na stoisku znajdują się 10 10 Zgodny
+Odpowiedź: OK
+puste kartony?
+JAKOŚĆ 100%
+Pytania Odpowiedź Punkty Punkty Poziom
+zdobyte możliwe ryzyka
+do
+zdobycia
+OWJAKOSC1 - Czy na stoisku OW obserwuje się 10 10 Zgodny
+Odpowiedź: OK
+produkty spleśniałe/zgniłe?
+OWJAKOSC2 - Czy na stoisku OW obserwuje się 10 10 Zgodny
+Odpowiedź: OK
+produkty obite?
+OWJAKOSC3 - Czy na stoisku obserwuje się 10 10 Zgodny
+Odpowiedź: OK
+produkty odznaczające się niewłaściwą jakości
+ą (inne niż spleśniałe/zgniłe/obite)?
+OWJAKOSC4 - Lista indeksów niewłaściwej jako 0 0 Zgodny
+Odpowiedź: OK
+ści:
+CZYSTOŚĆ 100%
+Pytania Odpowiedź Punkty Punkty Poziom
+zdobyte możliwe ryzyka
+do
+zdobycia
+OWCZYSTOSC1 - Czy podłoga wokół stoiska 10 10 Zgodny
+Odpowiedź: OK
+OW jest czysta?
+OWCZYSTOSC2 - Czy podesty OW są czyste - gó 10 10 Zgodny
+Odpowiedź: OK
+ra i boki
+OWCZYSTOSC3 - Czy listwy cenowe na stoisku 10 10 Zgodny
+Odpowiedź: OK
+OW są czyste?
+OWCZYSTOSC4 - Czy waga na stoisku OW jest 10 10 Zgodny
+Odpowiedź: OK
+czysta?
+OWCZYSTOSC5 - Czy waga na stoisku OW jest 10 10 Zgodny
+Odpowiedź: OK
+gotowa do użytku?
+3/4Link do raportu
+on-line
+Szczegółowe podsumowanie auditu
+MAGAZYN 75%
+Pytania Odpowiedź Punkty Punkty Poziom
+zdobyte możliwe ryzyka
+do
+zdobycia
+OWMAGAZYN1 - Czy wyznaczone jest miejsce 10 10 Zgodny
+Odpowiedź: OK
+do składowania OW i zapas się tam znajduje?
+OWMAGAZYN2 - Czy na domku chłodniczym 10 10 Zgodny
+Odpowiedź: OK
+znajduje się naklejka dotycząca prze
+chowywania OW?
+OWMAGAZYN3 - Czy produkty OW są skł 10 10 Zgodny
+Odpowiedź: OK
+adowane w obszarze magazynu zgodnie z wy
+maganymi warunkami temperaturowymi (na
+klejka na domku chłodniczym)?
+OWMAGAZYN4 - Czy przestrzegana jest 0 10 Niezgodny
+Odpowiedź: NOK
+procedura porcjowania OW (dostępna jest
+folia spożywcza, rękawiczki, deska i nóż)? Komentarz auditora:
+• braki w wyposażeniu do porcjowania OW
+Komentarz:
+Brak rękawiczek na stanowisku porcjowania owoców i
+warzyw
+(braki w wyposażeniu do porcjowania OW)
+20026962
+4/4

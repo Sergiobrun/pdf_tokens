@@ -1,0 +1,127 @@
+Link do raportu
+on-line
+Audyt Jakościowy OW v3.5 Auditor: Magdalena Bialas
+Diversey Consulting Data i godzina rozpoczęcia: kwietnia 8, 2022 10:05
+PLB1323 1323 Kraków Data i godzina zakończenia: kwietnia 8, 2022 14:02
+ul. Pachońskiego 8 Region: Kraków
+Kraków, PL Okręg: 131
+Rejon: 1314
+Wynik auditu
+Wynik: 95%
+Podsumowanie działów Ilość stwier Powtarzające Wynik
+dzonych się
+niezgodności niezgodności
+STOISKO 1 0 89%
+JAKOŚĆ 0 0 100%
+CZYSTOŚĆ 0 0 100%
+MAGAZYN 0 0 100%
+Łącznie 1 0 95%
+Szczegółowe podsumowanie auditu
+STOISKO 89%
+Pytania Odpowiedź Punkty Punkty Poziom
+zdobyte możliwe ryzyka
+do
+zdobycia
+OWSTOISKO1 - Czy produkty promocyjne są 0 10 Niezgodny
+Odpowiedź: NOK
+dostępne - indeksy promocyjne
+Komentarz auditora:
+Brak truskawki na wyspie promocyjnej.
+1/3Link do raportu
+on-line
+Szczegółowe podsumowanie auditu
+STOISKO 89%
+Pytania Odpowiedź Punkty Punkty Poziom
+zdobyte możliwe ryzyka
+do
+zdobycia
+OWSTOISKO2 - Czy etykiety są widoczne dla 10 10 Zgodny
+Odpowiedź: OK
+klienta
+OWSTOISKO3 - Czy stosowana jest zasada 10 10 Zgodny
+Odpowiedź: OK
+FIFO/FEFO - całe stoisko
+OWSTOISKO4 - Sprawdzenie dostępności pod 10 10 Zgodny
+Odpowiedź: OK
+stawowych indeksów OW
+OWSTOISKO5 - Czy na stoisku dostępne są 10 10 Zgodny
+Odpowiedź: OK
+woreczki jednorazowe?
+OWSTOISKO6 - Czy oświetlenie nad stoiskiem 10 10 Zgodny
+Odpowiedź: OK
+jest włączone i sprawne?
+OWSTOISKO7 - Czy na stoisku obserwuje się 10 10 Zgodny
+Odpowiedź: OK
+obecność lub ślady bytowania szkodników?
+OWSTOISKO8 - Czy na stoisku OW odczuwalny 10 10 Zgodny
+Odpowiedź: OK
+jest nieprzyjemny zapach?
+OWSTOISKO9 - Czy na stoisku znajdują się 10 10 Zgodny
+Odpowiedź: OK
+puste kartony?
+JAKOŚĆ 100%
+Pytania Odpowiedź Punkty Punkty Poziom
+zdobyte możliwe ryzyka
+do
+zdobycia
+OWJAKOSC1 - Czy na stoisku OW obserwuje się 10 10 Zgodny
+Odpowiedź: OK
+produkty spleśniałe/zgniłe?
+OWJAKOSC2 - Czy na stoisku OW obserwuje się 10 10 Zgodny
+Odpowiedź: OK
+produkty obite?
+OWJAKOSC3 - Czy na stoisku obserwuje się 10 10 Zgodny
+Odpowiedź: OK
+produkty odznaczające się niewłaściwą jako
+ścią (inne niż spleśniałe/zgniłe/obite)?
+OWJAKOSC4 - Lista indeksów niewłaściwej 0 0 Zgodny
+Odpowiedź: OK
+jakości:
+Komentarz auditora:
+• brak produktów niewłaściwej jakości
+2/3Link do raportu
+on-line
+Szczegółowe podsumowanie auditu
+CZYSTOŚĆ 100%
+Pytania Odpowiedź Punkty Punkty Poziom
+zdobyte możliwe ryzyka
+do
+zdobycia
+OWCZYSTOSC1 - Czy podłoga wokół stoiska 10 10 Zgodny
+Odpowiedź: OK
+OW jest czysta?
+OWCZYSTOSC2 - Czy podesty OW są czyste - 10 10 Zgodny
+Odpowiedź: OK
+góra i boki
+OWCZYSTOSC3 - Czy listwy cenowe na stoisku 10 10 Zgodny
+Odpowiedź: OK
+OW są czyste?
+OWCZYSTOSC4 - Czy waga na stoisku OW jest 10 10 Zgodny
+Odpowiedź: OK
+czysta?
+OWCZYSTOSC5 - Czy waga na stoisku OW jest 10 10 Zgodny
+Odpowiedź: OK
+gotowa do użytku?
+MAGAZYN 100%
+Pytania Odpowiedź Punkty Punkty Poziom
+zdobyte możliwe ryzyka
+do
+zdobycia
+OWMAGAZYN1 - Czy wyznaczone jest miejsce 10 10 Zgodny
+Odpowiedź: OK
+do składowania OW i zapas się tam znajduje?
+OWMAGAZYN2 - Czy na domku chłodniczym 10 10 Zgodny
+Odpowiedź: OK
+znajduje się naklejka dotycząca prze
+chowywania OW?
+OWMAGAZYN3 - Czy produkty OW są 10 10 Zgodny
+Odpowiedź: OK
+składowane w obszarze magazynu zgodnie z
+wymaganymi warunkami temperaturowymi
+(naklejka na domku chłodniczym)?
+OWMAGAZYN4 - Czy przestrzegana jest 10 10 Zgodny
+Odpowiedź: OK
+procedura porcjowania OW (dostępna jest
+folia spożywcza, rękawiczki, deska i nóż)?
+20215253
+3/3
