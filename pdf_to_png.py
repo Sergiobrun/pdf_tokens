@@ -4,10 +4,8 @@ import time
 
 directory = 'C:/Users/Usuario/PycharmProjects/biedronka/pdfs/'
 for file in glob.glob(os.path.join(directory, "*.pdf")):
-    print(file)
     images = convert_from_path(file)
     for i, image in enumerate(images):
-        print(image)
         image.save(f'{file}_{i}.png')
 
 
